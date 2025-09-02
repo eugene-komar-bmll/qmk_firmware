@@ -1,0 +1,32 @@
+layout: {qmk_keyboard: planck/rev7, layout_name: LAYOUT_ortho_4x12}
+layers:
+  L0:
+  - [TAB, Q, W, E, R, T, Y, U, I, O]
+  - [P, BSPC, LCTL, A, S, D, F, G, H, J]
+  - [K, L, ;, '''', LSFT, Z, X, C, V, B]
+  - [N, M, ',', ., /, ENT, ESCAPE, MO( FN1), LGUI, LALT]
+  - [MO( NUM), SPC, SPC, MO( SYM), RALT, '', '', MO( FN2)]
+  L1:
+  - ['', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+  - ['0', '`', LCTL, A, S, D, F, G, H, J]
+  - [K, L, ;, '''', LSFT, Z, X, C, V, B]
+  - [N, M, ',', ., /, ENT, ESCAPE, MO( FN1), LGUI, LALT]
+  - [MO( NUM), SPC, SPC, MO( SYM), RALT, '', '', MO( FN2)]
+  L2:
+  - [TAB, Q, W, E, R, T, Y, U, I, O]
+  - [P, BSPC, LCTL, A, S, D, F, G, H, J]
+  - [K, L, ;, '''', LSFT, Z, X, C, V, B]
+  - [N, M, ',', ., /, ENT, ESCAPE, MO( FN1), LGUI, LALT]
+  - [MO( NUM), SPC, SPC, MO( SYM), RALT, '', '', MO( FN2)]
+  L3:
+  - [TAB, Q, W, E, R, T, Y, U, I, O]
+  - [P, BSPC, LCTL, A, S, D, F, G, H, J]
+  - [K, L, ;, '''', LSFT, Z, X, C, V, B]
+  - [N, M, ',', ., /, ENT, ESCAPE, MO( FN1), LGUI, LALT]
+  - [MO( NUM), SPC, SPC, MO( SYM), RALT, '', '', MO( FN2)]
+  L4:
+  - [TAB, Q, W, E, R, T, Y, U, I, O]
+  - [P, BSPC, LCTL, A, S, D, F, G, H, J]
+  - [K, L, ;, '''', LSFT, Z, X, C, V, B]
+  - [N, M, ',', ., /, ENT, ESCAPE, MO( FN1), LGUI, LALT]
+  - [MO( NUM), SPC, SPC, MO( SYM), RALT, '', '', MO( FN2)]
